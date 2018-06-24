@@ -1,0 +1,17 @@
+{
+    "Mysql_Host": "v2.s.ali-ss.com",
+    "Mysql_Port": 3306,
+    "Mysql_User": "v2raysocks",
+    "Mysql_Password": "YiECXyHMKcz7Rsk5",
+    "Mysql_Db": "v2raysocks",
+    "Mysql_TLS": "false",
+    "V2rayClientAddr": "127.0.0.1:8301",
+    "V2rayTag": "proxy",
+    "Email": "@123.moe",
+    "AlterID": 64,
+    "Level": 1,
+    "TrafficRate": 1,
+    "CheckRate": 60,
+    "CheckUpdate": true,
+    "FileLog": true
+}
